@@ -35,7 +35,7 @@ This project analyzes global aviation incident data to identify patterns, high-r
 |------|-------------|
 | 'Aviation Fx2.pbix' | Power BI file with all visuals |
 | 'Airline_Scraped_Data_2019-2024(October).csv' | Cleaned and formatted dataset |
-| `Screenshots/` | Contains images of the final dashboard |
+
 
 ---
 
@@ -46,7 +46,7 @@ To demonstrate data visualization skills and ability to extract meaningful insig
 
 ### 📸 Dashboard Preview:
 ![Dashboard Preview]
-(`Screenshots/` 2025-07-14 151709.png)
+(`Screenshots/` Screenshot 2025-07-14 151709.png)
 
 ---
 
