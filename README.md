@@ -33,7 +33,7 @@ This project analyzes global aviation incident data to identify patterns, high-r
 ### 📂 Folder Contents:
 | File | Description |
 |------|-------------|
-| `Aviation_Incidents_Dashboard.pbix` | Power BI file with all visuals |
+| 'Aviation Fx2.pbix' | Power BI file with all visuals |
 | `Aviation_Incidents_Dataset.xlsx` | Cleaned and formatted dataset |
 | `Screenshots/` | Contains images of the final dashboard |
 
