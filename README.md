@@ -45,7 +45,8 @@ To demonstrate data visualization skills and ability to extract meaningful insig
 ---
 
 ### 📸 Dashboard Preview:
-![Dashboard Preview]('Screenshot/ 2025-07-14 151709.png')
+![Dashboard Preview]
+(`Screenshots/` 2025-07-14 151709.png)
 
 ---
 
